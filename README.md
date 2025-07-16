@@ -103,9 +103,3 @@ It can be extended to include biometric integration or facial recognition in the
 
 **Rithik Thakur**  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/rithik-thakur-ba954924b)
-
----
-
-## 🔖 GitHub Description
-
-> A C++-based attendance management system with modules for adding, tracking, deleting, and analyzing attendance. Includes visual documentation with UML diagrams and output snapshots.
